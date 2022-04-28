@@ -1,2 +1,2 @@
 # Barbershop
-Learning project of  Barbershop "Borodinski"
+Educational project of  Barbershop "Borodinski" published for my friends
